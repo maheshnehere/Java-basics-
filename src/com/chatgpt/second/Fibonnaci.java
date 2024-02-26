@@ -1,3 +1,5 @@
+package com.chatgpt.second;
+
 public class Fibonnaci {
     public static void main(String[] args) {
         int number = 10;

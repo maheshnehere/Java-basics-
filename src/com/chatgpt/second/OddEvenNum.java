@@ -1,3 +1,5 @@
+package com.chatgpt.second;
+
 public class OddEvenNum {
     public static void main(String[] args) {
         int num = 11;

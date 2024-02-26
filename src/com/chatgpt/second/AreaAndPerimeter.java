@@ -2,7 +2,6 @@ package com.chatgpt.second;
 
 public class AreaAndPerimeter {
     public static void main(String[] args) {
-// TODO:complete today
 
         //find rectangle area and perimeter
 

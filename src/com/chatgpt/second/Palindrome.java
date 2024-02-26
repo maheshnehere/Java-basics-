@@ -1,3 +1,5 @@
+package com.chatgpt.second;
+
 public class Palindrome {
     public static void main(String[] args) {
         int number = 121;
